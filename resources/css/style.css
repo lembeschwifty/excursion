@@ -1,0 +1,37 @@
+.font {
+	font-family: Verdana;
+}
+.header_common {
+	color: white;
+}
+
+.header_main {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.header_two {
+	font-size: 42px;
+	font-weight: 300;
+}
+
+.excursion_desc {
+	font-size: 21px;
+	color: gray;
+}
+
+.dl_link {
+	font-family: Verdana;
+	font-size: 16px;
+	color: aquamarine;
+	text-decoration: underline;
+}
+
+#copy {
+	text-align: right;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+}
